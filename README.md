@@ -14,6 +14,6 @@ This script allows you to download images from a given URL. It supports download
 
 #### Installation
 ```bash
-git clone https://github.com/0JeetGupta/image_downloader.git
+git clone https://github.com/0JeetGupta/image-downloader
 cd "to your specific directory"
 pip install requests
